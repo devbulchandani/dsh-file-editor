@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="300" viewBox="0 0 640 300" role="img" aria-label="Editor dialog over the app">
+  <defs>
+    <clipPath id="feCardClip">
+      <rect x="96" y="40" width="448" height="220" rx="16"/>
+    </clipPath>
+  </defs>
+
+  <rect width="640" height="300" fill="#f6f7f9"/>
+  <rect x="0" y="0" width="56" height="300" fill="#eef0f4"/>
+  <rect x="56" y="0" width="464" height="300" fill="#ffffff"/>
+  <rect x="520" y="0" width="120" height="300" fill="#f1f3f7"/>
+
+  <rect x="66" y="76" width="300" height="12" rx="6" fill="#e3e7ee"/>
+  <rect x="66" y="102" width="220" height="12" rx="6" fill="#e3e7ee"/>
+  <rect x="532" y="76" width="88" height="10" rx="5" fill="#e3e7ee"/>
+  <rect x="532" y="96" width="64" height="10" rx="5" fill="#e3e7ee"/>
+
+  <rect x="0" y="0" width="640" height="300" fill="#000000" opacity="0.24"/>
+
+  <rect x="96" y="40" width="448" height="220" rx="16" fill="#ffffff"/>
+
+  <g clip-path="url(#feCardClip)">
+    <rect x="96" y="40" width="448" height="42" fill="#ffffff"/>
+    <rect x="96" y="82" width="448" height="146" fill="#f6f7f9"/>
+    <rect x="96" y="82" width="46" height="146" fill="#eef0f4"/>
+    <rect x="96" y="228" width="448" height="32" fill="#ffffff"/>
+
+    <g transform="translate(110 48) rotate(45 18 18) scale(0.46)">
+      <rect x="14.4" y="4.4" width="7.2" height="3.4" rx="1.5" fill="#d4838b"/>
+      <rect x="14.4" y="7.6" width="7.2" height="3.1" fill="#c3c9d2"/>
+      <rect x="14.4" y="10.5" width="7.2" height="14.2" fill="#e8b762"/>
+      <rect x="18.1" y="10.5" width="3.5" height="14.2" fill="#d5a251"/>
+      <path d="M14.4 24.4h7.2L18 29.9z" fill="#f2e0c4"/>
+      <path d="M16.85 27.4h2.3L18 29.9z" fill="#414852"/>
+    </g>
+
+    <rect x="140" y="52" width="76" height="8" rx="4" fill="#1f232b"/>
+    <rect x="140" y="65" width="132" height="5" rx="2.5" fill="#8b95a3"/>
+
+    <circle cx="466" cy="58" r="3" fill="#d9932b"/>
+    <rect x="474" y="55" width="30" height="5" rx="2.5" fill="#8b95a3"/>
+    <path d="M511 53 521 63M521 53 511 63" stroke="#8b95a3" stroke-width="1.6" stroke-linecap="round"/>
+
+    <path d="M96 82h448" stroke="#e6e9ef" stroke-width="1"/>
+
+    <g fill="#98a2b3">
+      <rect x="124" y="94" width="11" height="4" rx="2"/>
+      <rect x="124" y="110" width="11" height="4" rx="2"/>
+      <rect x="124" y="126" width="11" height="4" rx="2"/>
+      <rect x="124" y="142" width="11" height="4" rx="2"/>
+      <rect x="124" y="158" width="11" height="4" rx="2"/>
+      <rect x="124" y="174" width="11" height="4" rx="2"/>
+      <rect x="124" y="190" width="11" height="4" rx="2"/>
+    </g>
+
+    <g fill="#b6c0cd">
+      <rect x="156" y="92" width="210" height="6" rx="3"/>
+      <rect x="156" y="108" width="150" height="6" rx="3"/>
+      <rect x="156" y="140" width="118" height="6" rx="3"/>
+      <rect x="156" y="156" width="190" height="6" rx="3"/>
+      <rect x="156" y="172" width="86" height="6" rx="3"/>
+      <rect x="156" y="188" width="166" height="6" rx="3"/>
+    </g>
+    <rect x="156" y="124" width="246" height="6" rx="3" fill="#b9cdf3"/>
+    <rect x="408" y="120" width="2" height="14" fill="#1f232b"/>
+
+    <path d="M96 228h448" stroke="#e6e9ef" stroke-width="1"/>
+    <rect x="112" y="239" width="68" height="5" rx="2.5" fill="#b6c0cd"/>
+    <rect x="428" y="234" width="52" height="20" rx="10" fill="none" stroke="#c9d0da" stroke-width="1"/>
+    <rect x="488" y="234" width="44" height="20" rx="10" fill="#1f232b"/>
+    <rect x="500" y="241" width="20" height="5" rx="2.5" fill="#f7f8fa"/>
+  </g>
+
+  <rect x="96" y="40" width="448" height="220" rx="16" fill="none" stroke="#d5dbe3" stroke-width="1"/>
+</svg>

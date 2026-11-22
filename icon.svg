@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 36 36" role="img" aria-label="Pencil">
+  <g transform="rotate(45 18 18)">
+    <rect x="14.4" y="4.4" width="7.2" height="3.4" rx="1.5" fill="#d4838b"/>
+    <rect x="14.4" y="7.6" width="7.2" height="3.1" fill="#c3c9d2"/>
+    <rect x="14.4" y="10.5" width="7.2" height="14.2" fill="#e8b762"/>
+    <rect x="18.1" y="10.5" width="3.5" height="14.2" fill="#d5a251"/>
+    <path d="M14.4 24.4h7.2L18 29.9z" fill="#f2e0c4"/>
+    <path d="M16.85 27.4h2.3L18 29.9z" fill="#414852"/>
+  </g>
+</svg>

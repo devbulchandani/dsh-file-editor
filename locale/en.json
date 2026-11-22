@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "File editor",
+    "detail": "docs/DETAIL.md",
+    "description": "Adds an Edit file control (a pencil) to the right Sidebar's file preview header, so a workspace text file can be changed without leaving the Harness. The control opens an editor dialog with a line-numbered source field, a status line for unsaved and saved state, and Save, Cancel, and the platform save shortcut (⌘S or Ctrl+S); closing with unsaved changes, or reloading a file that changed on disk, asks before dropping them. Saves go through the hosting filesystem service and its sandbox policy, so a path the active policy does not allow to be written is refused instead of being forced, and a file that changed on disk after it was opened reports the conflict with Reload or Overwrite instead of being replaced silently. Text files up to 4 MiB can be edited; binary files such as images, PDFs, archives, and Office documents get no Edit control. Turning the plugin off removes the control and the dialog and leaves every file unchanged."
+  }
+}
